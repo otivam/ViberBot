@@ -1,2 +1,2 @@
 # ViberBot
-Welcome message Viber Bot! 
+Welcome message Viber Bot! More than 500 messages per minute.
